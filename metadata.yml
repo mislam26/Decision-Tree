@@ -1,0 +1,14 @@
+---
+:id: 235701887
+:submitters:
+- :name: Sophia Li
+  :email: sophia_y_li1@brown.edu
+- :name: Maima Islam
+  :email: maima_islam@brown.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-03-01 16:33:45.528286000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-03-01 08:33:45.528286000 Z
+:status: processed
+:score: 34.0

@@ -1,0 +1,8 @@
+temperature,leaves,wind,season
+hot,green,no,summer
+cold,brown,yes,winter
+cold,green,no,summer
+hot,green,yes,summer
+hot,brown,yes,winter
+cold,green,yes,winter
+cold,yellow,no,winter

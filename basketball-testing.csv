@@ -1,0 +1,6 @@
+height,weight,vertical,basketball
+short,high,no,reject
+short,normal,yes,accept
+tall,high,no,reject
+tall,low,yes,accept
+tall,normal,yes,accept
